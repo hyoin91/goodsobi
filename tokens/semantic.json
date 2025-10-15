@@ -840,7 +840,7 @@
           "text": {
             "default": {
               "$type": "color",
-              "$value": "{core.color.natural.grey.800}"
+              "$value": "{core.color.natural.grey.900}"
             },
             "subtle": {
               "$type": "color",
